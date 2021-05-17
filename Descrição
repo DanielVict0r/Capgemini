@@ -1,5 +1,6 @@
 O código foi escrito em Java no netbeans.
 
 Como utilizar:
-Criar um arquivo em algum compilador Java, colar o código que está no readme no main, e em uma classe colar o codigo .
-Tem a primeira parte do código, que é a calculadora do anúncio em que foi utilizado um for para contabilizar as vizualizações de maneira aproximada
+Criar um arquivo em algum compilador Java, colar o código que está no readme no main, e em uma classe colar o codigo que esta no arquivo "Classe do readme".Depois é só
+rodar o código.
+
