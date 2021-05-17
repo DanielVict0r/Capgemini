@@ -1,0 +1,62 @@
+package calculadora;
+
+import java.util.Date;
+
+
+
+
+public class Caracteristicas {
+    public  String nome;
+    public String Cliente;
+    public Date datainicio;
+    public Date datatermino;
+    public Double investimento_dia;
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getCliente() {
+        return Cliente;
+    }
+
+    public void setCliente(String Cliente) {
+        this.Cliente = Cliente;
+    }
+
+    public Date getDatainicio() {
+        return datainicio;
+    }
+
+    public void setDatainicio(Date datainicio) {
+        this.datainicio = datainicio;
+    }
+
+    public Date getDatatermino() {
+        return datatermino;
+    }
+
+    public void setDatatermino(Date datatermino) {
+        this.datatermino = datatermino;
+    }
+
+   
+
+    public Double getInvestimento_dia() {
+        return investimento_dia;
+    }
+
+    public void setInvestimento_dia(Double investimento_dia) {
+        this.investimento_dia = investimento_dia;
+    }
+    
+    
+    
+    
+    
+    
+}
